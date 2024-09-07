@@ -16,6 +16,6 @@ I also collaborated with [Dr Dhish Kumar Saxena](https://iitr.ac.in/Departments/
 Other than this, I've had the good fortune to work with professors from IIIT Hyderabad and NTU Singapore. 
 
 ## Outside Work
-I have a profound interest in math and I spend a lot of time learning (using online videos, textbooks and internet forums).  I am an avid reader, though my genre of choice varies with the season. When I am too tired to read or want to enjoy some scenery, I listen to audiobooks and podcasts. I also listen to music and take vocals classes. 
+I am really interested in and spend a lot of time learning math (using online videos, textbooks and internet forums).  I am an avid reader, though my genre of choice varies with the season. When I am too tired to read or want to enjoy some scenery, I listen to audiobooks and podcasts. I also listen to music and take vocals classes. 
 
 I am always on the lookout for good research opportunities. If our interests align and you are looking for researchers, feel free to send me an email!
