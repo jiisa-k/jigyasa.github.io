@@ -8,6 +8,10 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "CV"
+    # url: /cv/
+    url: /files/Resume.pdf
+
   # - title: "Talks"
   #   url: /talks/    
 
@@ -20,9 +24,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    # url: /cv/
-    url: /files/Resume.pdf
+
     
   # - title: "Guide"
   #   url: /markdown/
