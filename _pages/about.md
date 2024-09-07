@@ -12,7 +12,9 @@ I work as a Quantitative Analytics Specialist at Wells Fargo. I am a part of the
 ## Research Experience
 
 I worked as a researcher (remotely) with the MAGICS lab under the CS department at Northwestern University. My research was focused on interpreting and benchmarking Limit Order Book (LOB) data. This work led to my first research paper that has been (currently) submitted to NeurIPS. 
+
 I also collaborated with [Dr Dhish Kumar Saxena](https://iitr.ac.in/Departments/Mechanical%20and%20Industrial%20Engineering%20Department/People/Faculty/100603.html) at the Evolutionary Algorithms and Data Analysis Laboratory (EADAL), IIT Roorkee for my B.Tech thesis. I worked on solving constrained multiobjective optimisation problems using Genetic Algorithms and Graph Neural Networks. 
+
 Other than this, I've had the good fortune to work with professors from IIIT Hyderabad and NTU Singapore. 
 
 ## Outside Work
